@@ -16,5 +16,5 @@ Robot Operating System (ROS) is used for implementation of frontier exploration 
 All rights served. Published by ProQuest LLC(2018). Copyright of the Dissertation is held by the Author. This work is protected against unauthorized copying under Title 17, United States Code Microform Edition © ProQuest LLC.
 
 ___
-Venkata Kali Suguna Praneeth, Behara
+Venkata Kali Suguna Praneeth, Behara  
 Feb 2018
